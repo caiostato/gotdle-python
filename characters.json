@@ -1,0 +1,762 @@
+[
+  {
+    "origin": "Dragonstone",
+    "name": "Daenerys Targaryen",
+    "house": "Targaryen",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 1,
+    "gender": "female"
+  },
+  {
+    "origin": "King's Landing",
+    "name": "Viserys Targaryen",
+    "house": "Targaryen",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 1,
+    "gender": "male"
+  },
+  {
+    "origin": "Tower of Joy",
+    "name": "Jon Snow",
+    "house": "Targaryen",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 1,
+    "gender": "male"
+  },
+  {
+    "origin": "Riverrun",
+    "name": "Robb Stark",
+    "house": "Stark",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 4,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Winterfell",
+    "name": "Sansa Stark",
+    "house": "Stark",
+    "first_season": "1",
+    "marriege_count": 2,
+    "siblings": 4,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "Winterfell",
+    "name": "Arya Stark",
+    "house": "Stark",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 4,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "Winterfell",
+    "name": "Brandon Stark",
+    "house": "Stark",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 4,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Winterfell",
+    "name": "Rickon Stark",
+    "house": "Stark",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 4,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Winterfell",
+    "name": "Benjen Stark",
+    "house": "Stark",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 3,
+    "children": 4,
+    "gender": "male"
+  },
+  {
+    "origin": "Winterfell",
+    "name": "Eddard Stark",
+    "house": "Stark",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 3,
+    "children": 4,
+    "gender": "male"
+  },
+  {
+    "origin": "Riverrun",
+    "name": "Catelyn Tully",
+    "house": "Tully",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 4,
+    "gender": "female"
+  },
+  {
+    "origin": "Riverrun",
+    "name": "Edmure Tully",
+    "house": "Tully",
+    "first_season": "3",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Riverrun",
+    "name": "Hoster Tully",
+    "house": "Tully",
+    "first_season": "3",
+    "marriege_count": 1,
+    "siblings": 1,
+    "children": 3,
+    "gender": "male"
+  },
+  {
+    "origin": "Riverrun",
+    "name": "Brynden Tully",
+    "house": "Tully",
+    "first_season": "3",
+    "marriege_count": 0,
+    "siblings": 1,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Riverrun",
+    "name": "Lisa Tully",
+    "house": "Tully",
+    "first_season": "1",
+    "marriege_count": 2,
+    "siblings": 2,
+    "children": 1,
+    "gender": "female"
+  },
+  {
+    "origin": "The Eyrie",
+    "name": "Jon Arryn",
+    "house": "Arryn",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 1,
+    "gender": "male"
+  },
+  {
+    "origin": "King's Landing",
+    "name": "Robin Arryn",
+    "house": "Arryn",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Runestone",
+    "name": "Yohn Royce",
+    "house": "Royce",
+    "first_season": "4",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 2,
+    "gender": "male"
+  },
+  {
+    "origin": "Casterly Rock",
+    "name": "Tywin Lannister",
+    "house": "Lannister",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 1,
+    "children": 3,
+    "gender": "male"
+  },
+  {
+    "origin": "Casterly Rock",
+    "name": "Kevan Lannister",
+    "house": "Lannister",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 1,
+    "children": 3,
+    "gender": "male"
+  },
+  {
+    "origin": "Casterly Rock",
+    "name": "Lancel Lannister",
+    "house": "Lannister",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 2,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Casterly Rock",
+    "name": "Tyrion Lannister",
+    "house": "Lannister",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Casterly Rock",
+    "name": "Jaime Lannister",
+    "house": "Lannister",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 2,
+    "children": 3,
+    "gender": "male"
+  },
+  {
+    "origin": "Casterly Rock",
+    "name": "Cersei Lannister",
+    "house": "Lannister",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 3,
+    "gender": "female"
+  },
+  {
+    "origin": "King's Landing",
+    "name": "Joffrey Lannister",
+    "house": "Lannister",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "King's Landing",
+    "name": "Myrcella Lannister",
+    "house": "Lannister",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 2,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "King's Landing",
+    "name": "Tommen Lannister",
+    "house": "Lannister",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Storm's End",
+    "name": "Robert Baratheon",
+    "house": "Baratheon",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 1,
+    "gender": "male"
+  },
+  {
+    "origin": "Storm's End",
+    "name": "Renly Baratheon",
+    "house": "Baratheon",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Storm's End",
+    "name": "Stannis Baratheon",
+    "house": "Baratheon",
+    "first_season": "2",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 4,
+    "gender": "male"
+  },
+  {
+    "origin": "Brighwater Keep",
+    "name": "Selyse Florent",
+    "house": "Florent",
+    "first_season": "2",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 4,
+    "gender": "female"
+  },
+  {
+    "origin": "Dragonstone",
+    "name": "Shireen Baratheon",
+    "house": "Baratheon",
+    "first_season": "3",
+    "marriege_count": 0,
+    "siblings": 3,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "The Arbor",
+    "name": "Olenna Tyrell",
+    "house": "Tyrell",
+    "first_season": "3",
+    "marriege_count": 1,
+    "siblings": 1,
+    "children": 1,
+    "gender": "female"
+  },
+  {
+    "origin": "Highgarden",
+    "name": "Mace Tyrell",
+    "house": "Tyrell",
+    "first_season": "4",
+    "marriege_count": 1,
+    "siblings": 0,
+    "children": 2,
+    "gender": "male"
+  },
+  {
+    "origin": "Highgarden",
+    "name": "Loras Tyrell",
+    "house": "Tyrell",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 1,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Highgarden",
+    "name": "Margaery Tyrell",
+    "house": "Tyrell",
+    "first_season": "2",
+    "marriege_count": 3,
+    "siblings": 1,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "Pyke",
+    "name": "Balon Greyjoy",
+    "house": "Greyjoy",
+    "first_season": "2",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 4,
+    "gender": "male"
+  },
+  {
+    "origin": "Pyke",
+    "name": "Euron Greyjoy",
+    "house": "Greyjoy",
+    "first_season": "6",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Pyke",
+    "name": "Theon Greyjoy",
+    "house": "Greyjoy",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 3,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Pyke",
+    "name": "Yara Greyjoy",
+    "house": "Greyjoy",
+    "first_season": "2",
+    "marriege_count": 0,
+    "siblings": 3,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "Sunspear",
+    "name": "Doran Martell",
+    "house": "Martell",
+    "first_season": "5",
+    "marriege_count": 0,
+    "siblings": 2,
+    "children": 1,
+    "gender": "male"
+  },
+  {
+    "origin": "Sunspear",
+    "name": "Oberyn Martell",
+    "house": "Martell",
+    "first_season": "4",
+    "marriege_count": 0,
+    "siblings": 2,
+    "children": 8,
+    "gender": "male"
+  },
+  {
+    "origin": "Sunspear",
+    "name": "Trystane Martell",
+    "house": "Martell",
+    "first_season": "5",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Hellholt",
+    "name": "Ellaria Sand",
+    "house": "Uller",
+    "first_season": "4",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 4,
+    "gender": "female"
+  },
+  {
+    "origin": "Dorne",
+    "name": "Obara Sand",
+    "house": "Martell",
+    "first_season": "5",
+    "marriege_count": 0,
+    "siblings": 8,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "Dorne",
+    "name": "Nymeria Sand",
+    "house": "Martell",
+    "first_season": "5",
+    "marriege_count": 0,
+    "siblings": 8,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "Dorne",
+    "name": "Tyene Sand",
+    "house": "Martell",
+    "first_season": "5",
+    "marriege_count": 0,
+    "siblings": 8,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "Horn Hill",
+    "name": "Randyll Tarly",
+    "house": "Tarly",
+    "first_season": "6",
+    "marriege_count": 1,
+    "siblings": 0,
+    "children": 3,
+    "gender": "male"
+  },
+  {
+    "origin": "Horn Hill",
+    "name": "Dickon Tarly",
+    "house": "Tarly",
+    "first_season": "6",
+    "marriege_count": 0,
+    "siblings": 2,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Horn Hill",
+    "name": "Samwell Tarly",
+    "house": "Tarly",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 2,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Bear Island",
+    "name": "Jeor Mormont",
+    "house": "Mormont",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 1,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Bear Island",
+    "name": "Jorah Mormont",
+    "house": "Mormont",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 0,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Baelish Castle",
+    "name": "Petyr Baelish",
+    "house": "Baelish",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 0,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "King's Landing",
+    "name": "Davos Seaworth",
+    "house": "Seaworth",
+    "first_season": "2",
+    "marriege_count": 1,
+    "siblings": 0,
+    "children": 1,
+    "gender": "male"
+  },
+  {
+    "origin": "Evenfall Hall",
+    "name": "Brienne of Tarth",
+    "house": "Tarth",
+    "first_season": "2",
+    "marriege_count": 1,
+    "siblings": 0,
+    "children": 1,
+    "gender": "female"
+  },
+  {
+    "origin": "Clegane's Keep",
+    "name": "Sandor Clegane",
+    "house": "Clegane",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 1,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Lys",
+    "name": "Varys",
+    "house": "",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "",
+    "name": "Bronn",
+    "house": "",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Asshai",
+    "name": "Melisandre",
+    "house": "",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "The DreadFort",
+    "name": "Ramsay Bolton",
+    "house": "Bolton",
+    "first_season": "3",
+    "marriege_count": 1,
+    "siblings": 0,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "The DreadFort",
+    "name": "Roose Bolton",
+    "house": "Bolton",
+    "first_season": "2",
+    "marriege_count": 1,
+    "siblings": 0,
+    "children": 1,
+    "gender": "male"
+  },
+  {
+    "origin": "Naath",
+    "name": "Missandei",
+    "house": "",
+    "first_season": "3",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "Summer Isles",
+    "name": "Grey Worm",
+    "house": "",
+    "first_season": "3",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "Craster's Keep",
+    "name": "Gilly",
+    "house": "",
+    "first_season": "2",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 1,
+    "gender": "female"
+  },
+  {
+    "origin": "Beyond the Wall",
+    "name": "Ygritte",
+    "house": "",
+    "first_season": "2",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "Beyond the Wall",
+    "name": "Tormund",
+    "house": "",
+    "first_season": "3",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Lorath",
+    "name": "Shae",
+    "house": "",
+    "first_season": "3",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "Braavos",
+    "name": "Jaqen H'ghar",
+    "house": "",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Vaes Dothrak",
+    "name": "Drogo",
+    "house": "",
+    "first_season": "1",
+    "marriege_count": 1,
+    "siblings": 0,
+    "children": 1,
+    "gender": "male"
+  },
+  {
+    "origin": "Tyrosh",
+    "name": "Daario Naharis",
+    "house": "",
+    "first_season": "3",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "King's Landing",
+    "name": "Gendry",
+    "house": "",
+    "first_season": "1",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "King's Landing",
+    "name": "High Sparrow",
+    "house": "",
+    "first_season": "5",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "Volantis",
+    "name": "Talisa Maegyr",
+    "house": "",
+    "first_season": "2",
+    "marriege_count": 1,
+    "siblings": 0,
+    "children": 0,
+    "gender": "female"
+  },
+  {
+    "origin": "Beyond the Wall",
+    "name": "The Night King",
+    "house": "",
+    "first_season": "4",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "male"
+  },
+  {
+    "origin": "King's Landing",
+    "name": "Rhaegar Targaryen",
+    "house": "Targaryen",
+    "first_season": "7",
+    "marriege_count": 1,
+    "siblings": 2,
+    "children": 2,
+    "gender": "male"
+  },
+  {
+    "origin": "Bear Island",
+    "name": "Lyanna Mormont",
+    "house": "Mormont",
+    "first_season": "6",
+    "marriege_count": 0,
+    "siblings": 0,
+    "children": 0,
+    "gender": "female"
+  }
+]
